@@ -1,0 +1,16 @@
+streamlit
+opencv-python
+numpy
+Pillow
+easyocr
+pandas
+plotly
+reportlab
+scikit-image
+torch
+torchvision
+scipy
+PyYAML
+python-bidi
+pyclipper
+Shapely
