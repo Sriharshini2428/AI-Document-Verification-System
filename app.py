@@ -1,12 +1,3 @@
-import cv2
-import streamlit as st
-
-st.write("OpenCV Version:", cv2.__version__)
-st.write("Has CascadeClassifier:", hasattr(cv2, "CascadeClassifier"))
-st.write("OpenCV Path:", cv2.__file__)
-
-st.stop()
-
 import streamlit as st
 from PIL import Image
 
