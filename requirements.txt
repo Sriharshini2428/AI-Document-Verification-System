@@ -14,3 +14,4 @@ PyYAML
 python-bidi
 pyclipper
 Shapely
+ImageHash
